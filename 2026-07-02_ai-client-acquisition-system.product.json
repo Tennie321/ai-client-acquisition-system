@@ -1,0 +1,32 @@
+{
+  "name": "AI Client Acquisition System",
+  "type": "5-Module Guide",
+  "version": "1.0",
+  "price_standalone": 17,
+  "price_bundle_prompts": 27,
+  "price_full_toolkit": 37,
+  "format": "Markdown",
+  "word_count": "~7000",
+  "target_audience": "Freelancers, solo agency owners, boutique digital agencies",
+  "tagline": "Stop begging for clients — build a system that attracts them on autopilot",
+  "modules": [
+    "Module 1: Target & Positioning Engine",
+    "Module 2: Lead Generation Engine",
+    "Module 3: Outreach & Conversation Engine",
+    "Module 4: Closing & Proposal Engine",
+    "Module 5: Retention & Referral Engine"
+  ],
+  "includes": [
+    "ICP Matrix template",
+    "4-touch outreach sequence (copy-paste ready)",
+    "Proposal template framework",
+    "15 objection responses with AI prompts",
+    "Referral automation workflow",
+    "Weekly/monthly/quarterly checklists",
+    "Lead scoring matrix",
+    "Channel selection scorecard"
+  ],
+  "created": "2026-07-02",
+  "file": "2026-07-02_ai-client-acquisition-system.md",
+  "bundle_offer": "Get all 5 modules + 200+ AI prompts + Notion dashboard: $37 (save $17)"
+}
